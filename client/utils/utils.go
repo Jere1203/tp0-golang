@@ -49,8 +49,19 @@ func GenerarYEnviarPaquete() {
 	paquete := Paquete{}
 	// Leemos y cargamos el paquete
 
+	var text string
+	reader := bufio.NewReader(os.Stdin)
+	log.Println("Ingrese los mensajes")
+	for text != "\n" {
+		text, _ = reader.ReadString('\n')                          //Lee hasta que haya un \n
+		log.Print(text)                                            //Logeo lo que este en consola
+		textAEmpaquetar := text[:len(text)-1]                      //Creo una variable auxiliar a empaquetar (soluciona parcialmente un problema con el \n, basicamente elimina el ultimo espacio del string)
+		paquete.Valores = append(paquete.Valores, textAEmpaquetar) //Concatena lo que lea en text al string de paquete.Valores
+	}
+
 	log.Printf("paqute a enviar: %+v", paquete)
 	// Enviamos el paqute
+	EnviarPaquete(globals.ClientConfig.Ip, globals.ClientConfig.Puerto, paquete) //La config es una variable global
 }
 
 func EnviarMensaje(ip string, puerto int, mensajeTxt string) {

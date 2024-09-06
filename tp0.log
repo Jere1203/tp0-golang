@@ -1,0 +1,129 @@
+2024/09/06 02:17:53 Soy un log
+2024/09/06 02:17:53 open config.json: no such file or directory
+2024/09/06 02:20:20 Soy un log
+2024/09/06 02:20:20 open config.json: no such file or directory
+2024/09/06 02:21:04 Soy un log
+2024/09/06 02:21:04 Hola soy un cliente
+2024/09/06 02:21:04 error enviando mensaje a ip:127.0.0.1 puerto:8080
+2024/09/06 02:36:45 Soy un log
+2024/09/06 02:36:45 Hola soy un cliente
+2024/09/06 02:36:45 error enviando mensaje a ip:127.0.0.1 puerto:8080
+2024/09/06 02:54:58 Soy un log
+2024/09/06 02:54:58 Hola soy un cliente
+2024/09/06 02:54:58 error enviando mensaje a ip:127.0.0.1 puerto:8080
+2024/09/06 02:55:13 Soy un log
+2024/09/06 02:55:13 Hola soy un cliente
+2024/09/06 02:55:13 Ingrese los mensajes
+2024/09/06 02:55:15 asd
+2024/09/06 02:55:15 as
+2024/09/06 02:55:16 s
+2024/09/06 02:55:16 a
+2024/09/06 02:55:16 
+2024/09/06 03:06:45 Soy un log
+2024/09/06 03:06:45 Hola soy un cliente
+2024/09/06 03:06:45 respuesta del servidor: 404 Not Found
+2024/09/06 03:06:45 Ingrese los mensajes
+2024/09/06 03:08:22 
+2024/09/06 03:08:22 paqute a enviar: {Valores:[]}
+2024/09/06 03:08:25 Soy un log
+2024/09/06 03:08:25 Hola soy un cliente
+2024/09/06 03:08:25 respuesta del servidor: 200 OK
+2024/09/06 03:08:25 Ingrese los mensajes
+2024/09/06 03:08:31 Hola
+2024/09/06 03:08:32 Como
+2024/09/06 03:08:33 Estas
+2024/09/06 03:08:34 
+2024/09/06 03:08:34 paqute a enviar: {Valores:[]}
+2024/09/06 03:18:53 Soy un log
+2024/09/06 03:18:53 Hola soy un cliente
+2024/09/06 03:18:53 respuesta del servidor: 200 OK
+2024/09/06 03:18:53 Ingrese los mensajes
+2024/09/06 03:18:56 Hola
+2024/09/06 03:18:56 
+2024/09/06 03:18:56 Ingrese los mensajes
+2024/09/06 03:18:58 
+2024/09/06 03:18:58 paqute a enviar: {Valores:[]}
+2024/09/06 03:18:58 respuesta del servidor: 200 OK
+2024/09/06 03:19:15 Soy un log
+2024/09/06 03:19:15 Hola soy un cliente
+2024/09/06 03:19:15 respuesta del servidor: 200 OK
+2024/09/06 03:19:15 Ingrese los mensajes
+2024/09/06 03:19:16 
+2024/09/06 03:19:16 Ingrese los mensajes
+2024/09/06 03:19:17 Hola
+2024/09/06 03:19:18 Como
+2024/09/06 03:19:20 Estas
+2024/09/06 03:19:21 
+2024/09/06 03:19:21 paqute a enviar: {Valores:[]}
+2024/09/06 03:19:21 respuesta del servidor: 200 OK
+2024/09/06 03:20:03 Soy un log
+2024/09/06 03:20:03 Hola soy un cliente
+2024/09/06 03:20:03 respuesta del servidor: 200 OK
+2024/09/06 03:20:03 Ingrese los mensajes
+2024/09/06 03:20:05 Hola
+2024/09/06 03:20:06 
+2024/09/06 03:20:06 paqute a enviar: {Valores:[]}
+2024/09/06 03:20:06 respuesta del servidor: 200 OK
+2024/09/06 03:34:52 Soy un log
+2024/09/06 03:34:52 Hola soy un cliente
+2024/09/06 03:34:52 respuesta del servidor: 200 OK
+2024/09/06 03:34:52 Ingrese los mensajes
+2024/09/06 03:34:55 Hola
+2024/09/06 03:34:56 
+2024/09/06 03:34:56 paqute a enviar: {Valores:[Hola
+ 
+]}
+2024/09/06 03:34:56 respuesta del servidor: 200 OK
+2024/09/06 03:35:32 Soy un log
+2024/09/06 03:35:32 Hola soy un cliente
+2024/09/06 03:35:32 respuesta del servidor: 200 OK
+2024/09/06 03:35:32 Ingrese los mensajes
+2024/09/06 03:35:35 Hola
+2024/09/06 03:35:36 
+2024/09/06 03:35:36 paqute a enviar: {Valores:[Hola
+ 
+]}
+2024/09/06 03:35:36 respuesta del servidor: 200 OK
+2024/09/06 03:49:45 Soy un log
+2024/09/06 03:49:45 Hola soy un cliente
+2024/09/06 03:49:45 respuesta del servidor: 200 OK
+2024/09/06 03:49:45 Ingrese los mensajes
+2024/09/06 03:49:48 Hola
+2024/09/06 03:49:48 
+2024/09/06 03:49:51 
+2024/09/06 03:49:52 
+2024/09/06 03:49:52 
+2024/09/06 03:49:53 
+2024/09/06 03:50:03 
+2024/09/06 03:50:03 
+2024/09/06 03:50:04 
+2024/09/06 03:50:04 
+2024/09/06 03:50:05 Hola
+2024/09/06 03:50:05 
+2024/09/06 03:50:06 
+2024/09/06 03:50:06 
+2024/09/06 03:50:06 
+2024/09/06 03:50:06 
+2024/09/06 03:50:06 
+2024/09/06 03:50:41 Soy un log
+2024/09/06 03:50:41 Hola soy un cliente
+2024/09/06 03:50:41 respuesta del servidor: 200 OK
+2024/09/06 03:50:41 Ingrese los mensajes
+2024/09/06 03:50:46 Hola
+2024/09/06 03:50:46 
+2024/09/06 03:50:46 paqute a enviar: {Valores:[Hola ]}
+2024/09/06 03:50:46 respuesta del servidor: 200 OK
+2024/09/06 03:51:48 Soy un log
+2024/09/06 03:51:48 Hola soy un cliente
+2024/09/06 03:51:48 respuesta del servidor: 200 OK
+2024/09/06 03:51:48 Ingrese los mensajes
+2024/09/06 03:51:51 Hola
+2024/09/06 03:51:52 
+2024/09/06 03:52:20 Soy un log
+2024/09/06 03:52:20 Hola soy un cliente
+2024/09/06 03:52:20 respuesta del servidor: 200 OK
+2024/09/06 03:52:20 Ingrese los mensajes
+2024/09/06 03:52:23 Hola
+2024/09/06 03:52:23 
+2024/09/06 03:52:23 paqute a enviar: {Valores:[Hola ]}
+2024/09/06 03:52:23 respuesta del servidor: 200 OK
