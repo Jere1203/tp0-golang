@@ -127,3 +127,9 @@
 2024/09/06 03:52:23 
 2024/09/06 03:52:23 paqute a enviar: {Valores:[Hola ]}
 2024/09/06 03:52:23 respuesta del servidor: 200 OK
+2024/09/06 04:17:16 Soy un log
+2024/09/06 04:17:16 open config.json: no such file or directory
+2024/09/06 04:19:01 Soy un log
+2024/09/06 04:19:01 open config.json: no such file or directory
+2024/09/06 04:20:18 Soy un log
+2024/09/06 04:20:18 open config.json: no such file or directory
